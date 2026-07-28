@@ -1,7 +1,7 @@
 # python attendance checker project
 
-#description:-
+description:-
 A Python program that calculates student attendance percentages and determines whether a student is eligible for exams based on a minimum attendance requirement of 75%.
 
-#Name:-
+Name:-
 Stella Namasinghe
